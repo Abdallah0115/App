@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    background-image: url(https://media.istockphoto.com/id/902558446/photo/restaurant-gourmet-food-on-dark-background.jpg?s=170667a&w=0&k=20&c=rM-Jl8jf2MObxsPzLGevb2cB8OxVuyDPwsJFK7biNeI=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav{
+    background-color: slategray;
+    color: azure;
+    padding:0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 5px;
+
+}
+.nav h1{
+    margin: 0px;
+    display: inline;
+}
+hr{
+    margin-top: 0px;
+}
+.fg{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    margin-right: 10px;
+    float: right;
+    font-size: larger;
+    margin-top: 1%;
+}
+input{
+    border-radius: 10px;
+    float: right;
+    margin-top: 1%;
+    margin-right: 5px;
+}
+
